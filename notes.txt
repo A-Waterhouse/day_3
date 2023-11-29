@@ -44,3 +44,48 @@ how to find what you need, skip over pieces that are not relevent,
 
 undestanding through experimentation, use the code you have found and see what happens and adapt it
 
+
+joes DE talk
+
+presenting data correctly, buisness inteliegence tools, give data to data scientists, display data in graph
+data can be repackaged and sent out via api's
+DE's will build all that infrastructure
+extract data, transform and load
+setup tools for others to analise data
+secure data
+
+data scientist are concerned witht he insights of the data, will they get more sales, how many sales etc.
+DE's prepare the data for them, getting the info contained in the data
+
+volume of data is huge, getting bigger all the time
+variety of data is larger, images/sound files/sensor information(alexa, siri, google)
+more sources of information
+lots of tools for data engineers
+velocity, has to be delivered fast
+
+DE's will be softweare engineers and knowledge of data structures and how to build in the back end
+
+
+high demand skillset
+
+need to know.
+coding
+programming
+python - packages, pandas, requests, boto 3 for interacting with AWS
+java
+scala
+go
+rust
+
+data modeling, reorganising data for analytical uses
+
+cloud operations (AWS, Google, Azure) must be deploy in desireable fashion
+
+machine learing
+visulisation packages
+security
+real time data streaming
+data validation
+
+3 core skills, coding, data management, cloud infrastructure
+
