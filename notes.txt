@@ -1,0 +1,35 @@
+How to solve problems
+
+algorithms
+builds a set of rules that allow us to solve a problem using an engineering aproach
+a sequence of instuctions that are designed to perform a task eg. cooking recipe
+instuctions must be precise 
+
+thing we can consider with code 
+- variables (what do i have access to an chat can i create, number, strings, objects) their names and types
+- inputs, where they are coming from an what they are going to be
+- output, return statements, console.log, the thing that we want to see
+- the things i need to do with that stuff, behaviours i want my function to do
+
+breaking problem down
+write function that takes a list of numbers
+returns as a list, if number is prime it will have "prime"
+and if not 'an array with the divisor'
+
+input array with numbers
+output array with strings or arrays
+how to check number is prime
+how to find the divisors
+have an array to put stuff in
+
+steps to solve
+-have an understanding of the problem
+-consider, inputs, outputs, variables we might need and the behaviors of the functions
+-focus on the simple cases first
+-talk about the steps in english/psuedo code and talking it through with pair
+-break the problem down into further functions (abstracting)
+
+
+
+
+
