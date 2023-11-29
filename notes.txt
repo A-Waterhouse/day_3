@@ -29,7 +29,18 @@ steps to solve
 -talk about the steps in english/psuedo code and talking it through with pair
 -break the problem down into further functions (abstracting)
 
+filter(callbackFn) function is used as an argument
 
+problem solving
 
+documentation
+what it is - guide provided by the devs of a particular function to provide details of what that function does and how to use it
+eg, mdn - javascript
+nodejs.org - node website
+devdocs.io - has js docs, same data sa mdn and others but in different format, easier to navigate
+documentation is detailed instruction manual, should be used instead of guessing
 
+how to find what you need, skip over pieces that are not relevent,
+
+undestanding through experimentation, use the code you have found and see what happens and adapt it
 
